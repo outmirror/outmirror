@@ -4,14 +4,19 @@
   <img src="./assets/banner.jpg" alt="ACG banner" width="100%" style="border-radius: 18px; box-shadow: 0 8px 24px rgba(0,0,0,0.25);"/>
 
   <!-- 头像 -->
-  <p>
+  <!-- <p>
     <img src="./assets/avatar.jpg" alt="avatar" width="110" style="border-radius: 50%; border: 4px solid rgba(255,255,255,0.06); box-shadow: 0 6px 20px rgba(0,0,0,0.25);"/>
-  </p>
+  </p> -->
 
   <!-- 动态打字效果 -->
-  <a href="https://git.io/typing-svg" title="Typing SVG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=ff79c6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+枍瞳!;ACG+lover+%2F+Full-stack+developer;Code+%2B+Anime+%3D+Happiness" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=700&lines=Hi+I'm+枍瞳;ACG+lover+%7C+Full-stack+developer;Code+%2B+Anime+%3D+Happiness"
+        alt="Typing SVG"
+      />
+    </a>
+  </p>
 
   <!-- 简短介绍 -->
   <p>
