@@ -10,12 +10,7 @@
 
   <!-- 动态打字效果 -->
   <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=700&lines=Hi+I'm+枍瞳;ACG+lover+%7C+Full-stack+developer;Code+%2B+Anime+%3D+Happiness"
-        alt="Typing SVG"
-      />
-    </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=700&lines=Hi+Im+枍瞳;ACG+lover+%7C+Full-stack+developer;Code+%2B+Anime+%3D+Happiness">
   </p>
 
   <!-- 简短介绍 -->
